@@ -1,4 +1,5 @@
-ToDo List React App
+ToDo List React App:
+
 A simple and interactive ToDo List application built with React, allowing users to manage tasks efficiently.
 
 Features
@@ -10,7 +11,8 @@ Reorder Tasks: Organize your tasks by moving them up or down in the list.
 
 Responsive Design: Optimized for both desktop and mobile views.​
 
-Technologies Used
-React (with Hooks)
+Technologies Used :
 
-CSS for styling​
+>React (with Hooks)
+
+>CSS for styling​
